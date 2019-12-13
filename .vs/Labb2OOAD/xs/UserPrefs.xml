@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7094DFF7-5EE6-41AD-B7C0-7DAA85351016}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labb2OOAD/Services/ApiService.cs">
+    <Files>
+      <File FileName="Labb2OOAD/Services/ApiService.cs" Line="18" Column="46" />
+      <File FileName="Labb2OOAD/Presentation/ViewModel.cs" />
+      <File FileName="Labb2OOAD/Presentation/Program.cs" Line="11" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Labb2OOAD" expanded="True">
+            <Node name="Labb2OOAD" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Labb2OOAD PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
